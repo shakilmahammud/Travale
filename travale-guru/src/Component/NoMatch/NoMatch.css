@@ -1,0 +1,13 @@
+.notMatch{
+    margin-top:25%; 
+    transform: translateY(-50%);
+}
+.notMatch h1{
+    font-size: 70px;
+    text-shadow: 2px 2px #ff0000;
+}
+h1,h3{
+    color: orange;
+    text-align: center;
+    align-items: center;   
+}

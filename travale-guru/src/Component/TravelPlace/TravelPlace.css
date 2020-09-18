@@ -1,0 +1,11 @@
+.travelPlace{
+    border:3px solid lightgray
+}
+.travelPlace:hover{
+    border:3px solid orange
+}
+.travelPlace h2{
+    margin-top: 270px; 
+    text-align: center;
+    color:#fff;
+}

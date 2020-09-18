@@ -1,0 +1,51 @@
+.booking-form{
+    background:white;
+    color:black;
+    text-align:left;
+    border-radius:10px;
+    padding:30px;
+     margin:auto;
+     margin-top:50px; 
+     width:350px;
+     box-shadow: 0px 0px 20px rgba(255, 166, 0, 0.575);
+}
+
+.form input{
+    margin-bottom:10px;
+    border-radius:5px;
+    border:1px solid lightgray;
+    outline:none;
+    height:30px;
+    
+    
+}
+.form input:focus{
+    border:1px solid orange;
+}
+.form input[type="submit"]{
+    background:orange;
+    font-weight:bold;
+    color:#000;
+    margin-top:10px;
+    cursor: pointer;
+}
+.form input[type="submit"]:hover{
+    background:transparent;
+    box-shadow: 0px 0px 10px rgba(255, 166, 0, 0.7);
+
+}
+.form label{
+    margin-bottom:10px;
+    color:gray;
+    font-weight:600;
+    font-size:14px;
+}
+.datepicker p{
+    margin-bottom:5px;
+    color:gray;
+    font-weight:600;
+    font-size:14px;
+}
+.react-datepicker-wrapper{
+    margin-right: 20px;
+}
